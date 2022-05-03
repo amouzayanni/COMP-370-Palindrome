@@ -30,4 +30,4 @@ jobs:
       with:
         arguments: build
     - name: Run test
-      run: gradle test --tests "PalindromeTest"
+      run: gradle clean test
