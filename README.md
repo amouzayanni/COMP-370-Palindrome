@@ -1,1 +1,1 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/amouzayanni/COMP-370-Palindrome/Java%20CI%20with%20Gradle)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/amouzayanni/COMP-370-Palindrome/Java%20CI%20with%20Gradle) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amouzayanni/COMP-370-Palindrome)
