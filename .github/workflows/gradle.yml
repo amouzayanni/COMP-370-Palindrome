@@ -32,4 +32,4 @@ jobs:
     - name: Run test
       run: ./gradlew clean test --info
     - name: Generate coverage report
-      run: ./gradle jacoco
+      run: ./gradlew jacoco
